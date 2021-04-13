@@ -1,8 +1,8 @@
-# ADS Project 5: Predict the Default of Credit Card Clients
+# ADS Project 5: 
 
 Term: Spring 2021
 + Team # 1
-+ Projec title: Lorem ipsum dolor sit amet
++ Projec title: Predict the Default of Credit Card Clients
 + Team members
 	+ Li, Qiao ql2403@columbia.edu
 	+ Shu, Chuyun cs3894@columbia.edu
