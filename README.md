@@ -22,7 +22,7 @@ Term: Spring 2021
 
 + Xia, Zhihang: Used smote method to deal with the imbalanced classes. Investigated/wrote codes of Decision Trees, Gradient Boosting with and without feature selection. Also used cross validations to tune the parameters of the three models. Wrote the content and results for my work in the final report and powerpoint.
 
-+ Yu, Shuqi:
++ Yu, Shuqi: Wroted code for Random Forest and Naive Bayes with cross validation to tune the paramenter, did the Smote and Oversampling to deal with the imbalance data, rearrange the final report to a right order to make it work smoothly. Wrote contect and results of my work in the final report and powerpoint.
 
 + Yuan, Serena: wrote the methods for KNeighbors, SGD, MLP, LDA, and SVC models, with parameter tuning for MLP. Made EDA plots for the presentation and report, edited the final report.  Presented the presentation. 
 
