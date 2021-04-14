@@ -26,7 +26,7 @@ Term: Spring 2021
 
 + Yuan, Serena:
 
-+ Zhang, Renyin:
++ Zhang, Renyin: Brainstormed about the topic and the scientific question, and found data scource online. Researched and implemented 4 different feature selection algorithms for dealing with imbalanced data. Edited the SMOTE method to just use on training set. Contributed to the presentation slide on feature selection and issue with imbalanced data.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
