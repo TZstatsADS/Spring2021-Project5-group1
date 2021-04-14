@@ -14,6 +14,20 @@ Term: Spring 2021
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
+
+**Note: models in bold were a focus of the contributor**
++ Li, Qiao:implemented managed communications; **SVM(fine-tuned), Weighted SVMs (fine-tuned)**; contributed to presenatation,edited final report, organization of Github files, Github ReadMes, and main.ipynb.
+
++ Shu, Chuyun:
+
++ Xia, Zhihang: 
+
++ Yu, Shuqi:
+
++ Yuan, Serena:
+
++ Zhang, Renyin:
+
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
