@@ -18,7 +18,7 @@ Term: Spring 2021
 **Note: models in bold were a focus of the contributor**
 + Li, Qiao: implemented managed communications; **SVM(fine-tuned), Weighted SVMs (fine-tuned)**; contributed to presenatation,edited final report, organization of Github files, Github ReadMes, and main.ipynb.
 
-+ Shu, Chuyun:
++ Shu, Chuyun: Investigated/wrote codes of KNN model,edited final report,presentation slides. 
 
 + Xia, Zhihang: Used smote method to deal with the imbalanced classes. Investigated/wrote codes of Decision Trees, Gradient Boosting with and without feature selection. Also used cross validations to tune the parameters of the three models. Wrote the content and results for my work in the final report and powerpoint.
 
